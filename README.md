@@ -204,7 +204,7 @@ intenta enviar los datos al endpoint ficticio
 
 ### Parte 2 — Formulario completo
 
-![Formulario completo](parte-2-formulario-registro/img/captura-01.png)
+![Formulario completo](parte-2-formulario-registro/img/captura-02.png)
 
 ## Repositorio GitHub
 
